@@ -1,0 +1,21 @@
+txn_id,date,customer,method,amount,status
+TXN-001,2024-03-01,Priya Sharma,UPI,850.00,settled
+TXN-002,2024-03-02,Arjun Mehta,card,2340.00,settled
+TXN-003,2024-03-04,Sneha Patel,netbanking,5600.00,settled
+TXN-004,2024-03-05,Rahul Verma,UPI,199.00,settled
+TXN-005,2024-03-07,Divya Nair,card,1450.00,settled
+TXN-006,2024-03-09,Karan Singh,UPI,3200.00,settled
+TXN-007,2024-03-28,Ananya Iyer,netbanking,4500.00,settled
+TXN-008,2024-03-10,Vikram Reddy,card,999.00,settled
+TXN-009,2024-03-11,Pooja Gupta,UPI,475.00,settled
+TXN-010,2024-03-13,Suresh Kumar,netbanking,8900.00,settled
+TXN-011,2024-03-14,Meera Joshi,card,2150.00,settled
+TXN-012,2024-03-15,Rohit Desai,UPI,1299.00,settled
+TXN-013,2024-03-17,Lakshmi Pillai,netbanking,6700.00,settled
+TXN-014,2024-03-18,Aditya Bose,card,3100.00,settled
+TXN-015,2024-03-19,Nisha Kulkarni,UPI,3750.00,settled
+TXN-016,2024-03-20,Deepak Rao,card,1875.00,settled
+TXN-017,2024-03-22,Kavya Menon,UPI,520.00,settled
+TXN-018,2024-03-23,Amit Saxena,netbanking,12400.00,settled
+TXN-019,2024-03-25,Ritu Agarwal,card,4200.00,settled
+TXN-020,2024-03-26,Sanjay Tiwari,UPI,680.00,settled
